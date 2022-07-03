@@ -40,3 +40,11 @@ Install yoloX.
 ```sh
 $ make yoloXinstall
 ```
+
+# Demo
+Demo yolovX on webcamera.
+
+```sh
+$ cd yoloX_web/YOLOX
+$ poetry run python tools/demo.py webcam -n yolox-nano -c ../model/yolox_nano.pth --camid 0 --conf 0.25 --nms 0.45 --tsize 416 --device cpu
+```
