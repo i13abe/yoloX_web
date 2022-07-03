@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python_template"
+name = "yoloX_web"
 version = "0.1.0"
 description = ""
 authors = ["i13abe <i13abemotoshi@gmail.com>"]
@@ -39,8 +39,8 @@ includes = [
 ]
 # 無視するフォルダー
 excludes = [
-  "./python_template/__init__.py",
-  "./python_template/"
+  "./yoloX_web/__init__.py",
+  "./yoloX_web/"
 ]
 
 # pytest設定

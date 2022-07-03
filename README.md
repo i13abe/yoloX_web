@@ -1,5 +1,5 @@
-# python_template
-python project template.
+# yoloX on web
+project card : https://github.com/i13abe/yoloX_web/projects/1?add_cards_query=is%3Aopen
 
 # Run format and lint before PR
 First you should add files.
