@@ -20,3 +20,23 @@ After them, tun the lint.
 ```sh
 $ make lint
 ```
+
+# Installation
+clone this project and run poetry install.
+
+```sh
+$ git clone --recursive git@github.com:i13abe/yoloX_web.git
+$ poetry install
+```
+
+If you forget to clone submodele (forget --recursive when cloning), please run below.
+
+```sh
+$ git submodule update --init --recursive
+```
+
+Install yoloX.
+
+```sh
+$ make yoloXinstall
+```

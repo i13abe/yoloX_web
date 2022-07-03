@@ -40,7 +40,7 @@ includes = [
 # 無視するフォルダー
 excludes = [
   "./yoloX_web/__init__.py",
-  "./yoloX_web/"
+  "./yoloX_web/YOLOX/"
 ]
 
 # pytest設定
